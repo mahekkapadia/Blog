@@ -1,16 +1,40 @@
-# React + Vite
+# Blog 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## How to Use
+* To run the Vite Project, install zip file from github repo.
+* Extract it.
+* Write cmd "npm i" in terminal after opening that unzip folder.
+* Enter "npm run dev" to run in "localhost:5173".
+## Components
+* Home
+* Insert -> Form
+* Manage -> Edit / Delete
 
-Currently, two official plugins are available:
+## Home Page
+<img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/7ef4b4b1-19f3-4a7f-a1cc-e9d4a5b8c948" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Add Blogs
+<img width="1905" height="903" alt="image" src="https://github.com/user-attachments/assets/ff203f6d-b98c-42ff-9e59-e270b3c5f68f" />
 
-## React Compiler
+## Manage Blogs
+<img width="1918" height="903" alt="image" src="https://github.com/user-attachments/assets/61d7afe2-131f-4f34-a607-5ccd560a1366" />
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+## Home Page after adding blog
+<img width="1903" height="910" alt="image" src="https://github.com/user-attachments/assets/c52b9ea2-88b8-4a2d-a9fd-f4344a8f6898" />
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Edit Blog
+<img width="1902" height="910" alt="image" src="https://github.com/user-attachments/assets/16a475f5-30c4-4ab3-a6b0-7012b5ab4928" />
+
+## Delete Blog
+<img width="1919" height="924" alt="image" src="https://github.com/user-attachments/assets/874c2608-4c2e-4917-8e8f-4ff91763827a" />
+
+
+
+
+
+
+
+
+
+
